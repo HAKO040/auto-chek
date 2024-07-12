@@ -29,8 +29,8 @@ o = "________________________________________________________________"
 print(B+o)
 
 # بيانات البوت
-token = '7444856175:AAFBwUtVDIypJe_2le1MyQB3DWkUpU5gfGc'
-chat_id = '6950713097'
+token = '6995048446:AAH7cA-k4iQ0rQSTngr8ikYdr19lE8rNkn8'
+chat_id = '7168909426'
 
 # بيانات التلجرام
 api_id = '15372008'
