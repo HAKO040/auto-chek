@@ -1,3 +1,3 @@
 # امسح كلمة king وحط اسم ملفك بدالها الي رفعته
 
-worker: python فحص تلقاي.py
+worker: python main.py
